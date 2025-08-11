@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Purslane Ltd" "\0"
-            VALUE "FileDescription", "RustDesk Remote Desktop" "\0"
+            VALUE "CompanyName", "Nutshell Infosoft Pvt. Ltd." "\0"
+            VALUE "FileDescription", "Nutshell Remote Support" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "rustdesk" "\0"
-            VALUE "LegalCopyright", "Copyright © 2025 Purslane Ltd. All rights reserved." "\0"
-            VALUE "OriginalFilename", "rustdesk.exe" "\0"
-            VALUE "ProductName", "RustDesk" "\0"
+            VALUE "InternalName", "nutshellsupport" "\0"
+            VALUE "LegalCopyright", "Copyright © 2025 Nutshell Infosoft Pvt. Ltd. All rights reserved." "\0"
+            VALUE "OriginalFilename", "nutshellsupport.exe" "\0"
+            VALUE "ProductName", "NutshellSupport" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
