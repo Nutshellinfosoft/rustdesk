@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=RustDesk
-GenericName=Remote Desktop
-Comment=Remote Desktop
+Name=NutshellSupport
+GenericName=Remote Support
+Comment=Remote Support
 Exec=rustdesk %u
-Icon=rustdesk
+Icon=nutshellsupport
 Terminal=false
 Type=Application
 StartupNotify=true
